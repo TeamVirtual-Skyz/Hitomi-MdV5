@@ -1,0 +1,12 @@
+{
+  "name": "TeamVirrual-skyz",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/TeamVirtual-skyz/Hitomi-MdV5",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
